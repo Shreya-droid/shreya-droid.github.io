@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.0fc992f3.chunk.js",
+    "main.js.map": "/static/js/main.0fc992f3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.31dae42a.chunk.js": "/static/js/2.31dae42a.chunk.js",
+    "static/js/2.31dae42a.chunk.js.map": "/static/js/2.31dae42a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2e99a83d.chunk.css.map": "/static/css/2.2e99a83d.chunk.css.map",
+    "static/js/2.31dae42a.chunk.js.LICENSE.txt": "/static/js/2.31dae42a.chunk.js.LICENSE.txt",
+    "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
+    "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
+    "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
+    "static/media/SharmaShreya_CV.825e70ea.pdf": "/static/media/SharmaShreya_CV.825e70ea.pdf",
+    "static/media/about-page-img.531957b9.png": "/static/media/about-page-img.531957b9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28230b2.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.31dae42a.chunk.js",
+    "static/js/main.0fc992f3.chunk.js"
+  ]
+}
