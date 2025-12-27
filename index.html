@@ -1802,6 +1802,30 @@
         padding-bottom: 12px;
         padding-top: 24px;
       }
+
+	  .v-navbar-menu-block[data-v-b65bbf3e] {
+        display: none;
+       }
+
+      @media (max-width: 56.29em) {
+        .v-navbar-menu-block.is-open[data-v-b65bbf3e] {
+        display: block;
+        background-color: #fff;
+        height: calc(100vh - 100%);
+        left: 0;
+        position: absolute;
+        top: 100%;
+        width: 100%;
+       }
+      }
+
+     @media (min-width: 56.3em) {
+       .v-navbar-menu-block[data-v-b65bbf3e] {
+       display: block;
+       width: 100%;
+      }
+     }
+
       @media (min-width: 56.3em) {
         .v-navbar-menu-block__wrapper[data-v-b65bbf3e] {
           overflow-y: visible;
@@ -2983,7 +3007,16 @@
         </div>
       </div>
     </div>
+<script>
+  const burger = document.querySelector('.v-burger');
+  const menu = document.querySelector('.v-navbar-menu-block');
+
+  burger.addEventListener('click', () => {
+    menu.classList.toggle('is-open');
+  });
+</script>
     
+
 
 
 
