@@ -3007,15 +3007,22 @@
         </div>
       </div>
     </div>
-<script>
+  <script>
   const burger = document.querySelector('.v-burger');
   const menu = document.querySelector('.v-navbar-menu-block');
 
-  burger.addEventListener('click', () => {
-    menu.classList.toggle('is-open');
-  });
+  if (burger && menu) {
+    burger.addEventListener('click', () => {
+      menu.classList.toggle('is-open');
+    });
+  }
 </script>
+
+</body>
+</html>
+
     
+
 
 
 
